@@ -6,4 +6,4 @@ a następnie dla każdych zajęć tworzy wydarzenie i umieszcza je w kalendarzu 
 Program napisany do własnego użytku. Do poprawnego działania wymagane jest skonfigurowanie "Google Client Library" na swoim komputerze.
 
 
-![Przykładowy rezultat](/images/calendar.png)
+![Przykładowy rezultat](/calendar.png)
