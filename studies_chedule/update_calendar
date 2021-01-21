@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /Users/sebastian/applications/studies_chedule
+exec python3 /Users/sebastian/applications/studies_chedule/update_calendar.py
+
